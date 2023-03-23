@@ -1,6 +1,7 @@
-# Mybike landing page
+# Mybike landing page.
 
-Responsive landing page for MyBike with catalog and submit form.
+Responsive landing page for MyBike with catalog and submit form.   
+
 Technologies/methodologies used:
 - HTML (semantic tags, flex box, form),
 - SASS(SCSS),
